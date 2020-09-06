@@ -13,8 +13,14 @@
         {
             "type": "lua",
             "request": "launch",
-            "name": "Debug3",
+            "name": "Debug3-4",
             "program": "${workspaceFolder}/chapter3-4.lua",
+        },
+        {
+            "type": "lua",
+            "request": "launch",
+            "name": "Debug5",
+            "program": "${workspaceFolder}/chapter5.lua",
         }
     ]
 }
