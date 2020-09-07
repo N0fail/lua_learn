@@ -33,6 +33,18 @@
             "request": "launch",
             "name": "Debug7",
             "program": "${workspaceFolder}/chapter7-iterators.lua",
+        },
+        {
+            "type": "lua",
+            "request": "launch",
+            "name": "Debug8",
+            "program": "${workspaceFolder}/chapter8.lua",
+        },
+        {
+            "type": "lua",
+            "request": "launch",
+            "name": "Debug9",
+            "program": "${workspaceFolder}/chapter9.lua",
         }
     ]
 }
