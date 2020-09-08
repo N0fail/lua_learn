@@ -45,6 +45,12 @@
             "request": "launch",
             "name": "Debug9",
             "program": "${workspaceFolder}/chapter9.lua",
+        },
+        {
+            "type": "lua",
+            "request": "launch",
+            "name": "Debug11",
+            "program": "${workspaceFolder}/chapter11.lua",
         }
     ]
 }

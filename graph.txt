@@ -1,0 +1,7 @@
+a 3 c
+c 4 d
+d 17 g
+g 2 c
+g 19 a
+d 4 a
+g 9 b
